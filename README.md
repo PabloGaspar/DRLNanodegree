@@ -36,6 +36,15 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 3. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
+## Dependencies Installation
+
+To set up your python environment to run the code in this repository, follow the instructions below.
+	
+ `python/` folder.  Then, install several dependencies.
+```bash
+pip install .
+```
+
 ### Instructions
 
 The project consist in two jupyter notebooks and to run them you need to open the notebooks by typing 
